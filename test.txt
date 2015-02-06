@@ -1,4 +1,5 @@
 just testing to see that this works just fine
 something
+something in the middle
 something else
 some more
